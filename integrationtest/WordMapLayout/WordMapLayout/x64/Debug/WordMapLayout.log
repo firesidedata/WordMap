@@ -1,0 +1,25 @@
+﻿  DocList.cpp
+  FontSize.cpp
+  FreqList.cpp
+  MapItem.cpp
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(88): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(92): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(96): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(100): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(104): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\mapitem.cpp(108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Rectangle.cpp
+  WordCount.cpp
+c:\users\robert\desktop\stratus\implementation\modellayer\src\wordcount.cpp(43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  WordMap.cpp
+c:\users\robert\desktop\stratus\implementation\modellayer\src\wordmap.cpp(41): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\modellayer\src\wordmap.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ColumnLayout.cpp
+  LatexMaker.cpp
+  latexutil.cpp
+  WordMapMaker.cpp
+c:\users\robert\desktop\stratus\implementation\processinglayer\src\wordmapmaker.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robert\desktop\stratus\implementation\processinglayer\src\wordmapmaker.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  WordMapLayoutDriver.cpp
+  Generating Code...
+  WordMapLayout.vcxproj -> C:\Users\Robert\Desktop\Stratus\Implementation\integrationtest\WordMapLayout\x64\Debug\WordMapLayout.exe

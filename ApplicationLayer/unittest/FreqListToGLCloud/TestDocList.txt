@@ -1,0 +1,12 @@
+dog,8
+lion,12
+cat,9
+elephant,11
+parrot,10
+femur,27
+banana,3
+chicken,17
+kangaroo,8
+penguin,14
+tiger,3
+ant,23
